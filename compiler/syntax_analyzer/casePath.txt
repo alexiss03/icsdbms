@@ -1,0 +1,237 @@
+state: 1
+stack: -1
+tokens: 36
+action: 68
+action #: 3
+---------------------------
+state: 3
+stack: 36
+tokens: 39
+action: 68
+action #: 5
+---------------------------
+state: 5
+stack: 39
+tokens: 22
+action: 68
+action #: 6
+---------------------------
+state: 6
+stack: 22
+tokens: 67
+action: 69
+action #: 4
+---------------------------
+state: 7
+stack: 86
+tokens: 67
+action: 68
+action #: 10
+---------------------------
+state: 10
+stack: 67
+tokens: 22
+action: 68
+action #: 13
+---------------------------
+state: 13
+stack: 22
+tokens: 8
+action: 69
+action #: 19
+---------------------------
+state: 12
+stack: 108
+tokens: 8
+action: 68
+action #: 25
+---------------------------
+state: 25
+stack: 8
+tokens: 26
+action: 69
+action #: 31
+---------------------------
+state: 18
+stack: 114
+tokens: 26
+action: 68
+action #: 35
+---------------------------
+state: 35
+stack: 26
+tokens: 55
+action: 69
+action #: 43
+---------------------------
+state: 37
+stack: 81
+tokens: 55
+action: 69
+action #: 23
+---------------------------
+state: 36
+stack: 115
+tokens: 55
+action: 69
+action #: 14
+---------------------------
+state: 15
+stack: 109
+tokens: 55
+action: 68
+action #: 31
+---------------------------
+state: 31
+stack: 55
+tokens: 22
+action: 69
+action #: 11
+---------------------------
+state: 29
+stack: 111
+tokens: 22
+action: 68
+action #: 13
+---------------------------
+state: 13
+stack: 22
+tokens: 6
+action: 69
+action #: 19
+---------------------------
+state: 46
+stack: 108
+tokens: 6
+action: 68
+action #: 26
+---------------------------
+state: 26
+stack: 6
+tokens: 26
+action: 69
+action #: 32
+---------------------------
+state: 18
+stack: 114
+tokens: 26
+action: 68
+action #: 35
+---------------------------
+state: 35
+stack: 26
+tokens: 29
+action: 69
+action #: 43
+---------------------------
+state: 37
+stack: 81
+tokens: 29
+action: 69
+action #: 23
+---------------------------
+state: 36
+stack: 115
+tokens: 29
+action: 69
+action #: 14
+---------------------------
+state: 51
+stack: 109
+tokens: 29
+action: 68
+action #: 30
+---------------------------
+state: 30
+stack: 29
+tokens: 22
+action: 69
+action #: 10
+---------------------------
+state: 29
+stack: 111
+tokens: 22
+action: 68
+action #: 13
+---------------------------
+state: 13
+stack: 22
+tokens: 8
+action: 69
+action #: 19
+---------------------------
+state: 46
+stack: 108
+tokens: 8
+action: 68
+action #: 25
+---------------------------
+state: 25
+stack: 8
+tokens: 26
+action: 69
+action #: 31
+---------------------------
+state: 18
+stack: 114
+tokens: 26
+action: 68
+action #: 35
+---------------------------
+state: 35
+stack: 26
+tokens: 20
+action: 69
+action #: 43
+---------------------------
+state: 37
+stack: 81
+tokens: 20
+action: 69
+action #: 23
+---------------------------
+state: 36
+stack: 115
+tokens: 20
+action: 69
+action #: 14
+---------------------------
+state: 51
+stack: 109
+tokens: 20
+action: 69
+action #: 9
+---------------------------
+state: 59
+stack: 110
+tokens: 20
+action: 69
+action #: 8
+---------------------------
+state: 59
+stack: 110
+tokens: 20
+action: 69
+action #: 8
+---------------------------
+state: 28
+stack: 110
+tokens: 20
+action: 69
+action #: 7
+---------------------------
+state: 11
+stack: 107
+tokens: 20
+action: 69
+action #: 5
+---------------------------
+state: 9
+stack: 77
+tokens: 20
+action: 69
+action #: 2
+---------------------------
+state: 2
+stack: 131
+tokens: 20
